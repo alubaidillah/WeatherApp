@@ -125,6 +125,12 @@ body{
         height: 45px;
     }
 
+    .search button img {
+        width: 20px;
+        height: 20px;
+        object-fit: contain;
+    }
+
     .weather-icon {
         width: 110px;
         margin-top: 15px;
